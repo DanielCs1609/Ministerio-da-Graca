@@ -1,2 +1,21 @@
+:root {
+  --primary-color: #002F43;
+  --details-color: #000C11;
+  --secondary-color: #007B9C;
+  --text-color: #333;
+  --accent-color: #002F43;
+  --background-color: #fff8f5;
+  --gradient: linear-gradient(45deg, #00486D, #001537);
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
+  font-family: Arial, sans-serif;
+  background-color: var();
 }
